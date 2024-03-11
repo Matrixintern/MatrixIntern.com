@@ -1,5 +1,5 @@
 # KRON-Dev (IT company)
-Fully adaptive, cross-browser, and user-friendly multi-page website for an esteemed international IT company. Made using modern solutions and technologies, the website delivers a seamless browsing experience, ensuring compatibility across different devices and browsers
+Matrix Company is excited to announce its new internship program aimed at providing valuable learning opportunities for aspiring professionals. Our internship offers a unique chance to gain hands-on experience in a dynamic and innovative work environment, all while receiving mentorship from industry experts.
 
 You can <a href="https://demgam.github.io/HEALTHY_SWITCHER/" target="_blank">see it there</a>
 
@@ -16,5 +16,5 @@ You can <a href="https://demgam.github.io/HEALTHY_SWITCHER/" target="_blank">see
   <a href="https://www.npmjs.com" target="_blank"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"></a>
 </p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/DemGam/Front-End-Portfolio/main/img/works/kron-dev.png" alt="KRON-Dev cover"/>
+<img src="https://raw.githubusercontent.com/DemGam/Front-End-Portfolio/main/img/logp.webp" alt="KRON-Dev cover"/>
 </p>
