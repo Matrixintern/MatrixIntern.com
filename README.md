@@ -1,7 +1,7 @@
 # KRON-Dev (IT company)
 Matrix Company is excited to announce its new internship program aimed at providing valuable learning opportunities for aspiring professionals. Our internship offers a unique chance to gain hands-on experience in a dynamic and innovative work environment, all while receiving mentorship from industry experts.
 
-You can <a href="https://demgam.github.io/HEALTHY_SWITCHER/" target="_blank">see it there</a>
+You can <a href="" target="_blank">see it there</a>
 
 <h2>
   🔧 Used Technologies & Tools
