@@ -16,5 +16,5 @@ You can <a href="" target="_blank">see it there</a>
   <a href="https://www.npmjs.com" target="_blank"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"></a>
 </p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/DemGam/Front-End-Portfolio/main/img/logp.webp" alt="KRON-Dev cover"/>
+<img src="https://raw.githubusercontent.com/DemGam/Front-End-Portfolio/main/img/logp.webp" />
 </p>
